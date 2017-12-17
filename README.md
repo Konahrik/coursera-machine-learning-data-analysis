@@ -1,1 +1,1 @@
-# coursera-machine-learning-data-analysis
+# Machine Learning for Data Analysis
